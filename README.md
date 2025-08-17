@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 My Portfolio [https://sahil-ali.netlify.app/](https://sahil-ali.netlify.app/)
+- My work for company Code Crew Tech Solutions:- https://codecrewtechsolutions.com
 
 - 💬 Ask me about **react, python**
 
